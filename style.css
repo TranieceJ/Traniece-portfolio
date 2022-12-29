@@ -1,0 +1,108 @@
+body{
+    background-color: #cfe4c3;
+    margin: 0;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+header h1 {
+	font-size: 50px;
+	padding-top: 50px;
+	margin: 0;
+   text-align: center;
+}
+h1{
+    color:#115746;
+}
+
+hr{
+    color: #3e443a;
+    margin: auto 100px;
+  
+}
+
+header nav {
+    background-color: #909f88;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0 0 40px 0;
+        padding-bottom: 20px;
+}
+
+
+header p{
+    font-size: 20px;
+    color: #e3ebe5;
+}
+
+img{
+    justify-content: center;
+    width: 40%;
+    height: 30%;
+}
+
+a{
+    text-decoration: underline;
+    margin-right: 40px;
+
+}
+a:link{
+    color: white;
+}
+a:hover{
+    color: #0000;
+}
+
+a:visited{
+    color: red;
+}
+
+a:active{
+    color: #e0e4c3;
+}
+
+main p{
+    margin: 20px 60px;
+    font-size: 12px;
+}
+footer {
+    color:#115746;
+    background-color: #909f88;
+    margin-bottom: 0;
+    padding: 20px
+}
+
+ul,ol ,li{
+    font-size: 12px;
+   text-align: center;
+   padding-left: 0;
+   list-style-position: inside;
+}
+
+.about-me{
+ margin: 20px 60px;
+ padding: 10px 10px;
+}
+h2{
+    color:  #0b3c18;
+    margin: 10px 0 40px 0;
+}
+
+.intro{
+    margin: 20px 60px;
+    padding-bottom: 20px;
+}
+
+
+.intro img{
+    padding-bottom: 20px;
+}
+
+.contact{
+    margin: 20px 60px;
+    padding-bottom: 100px;
+}
+
+
+
