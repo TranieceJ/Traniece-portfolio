@@ -4,8 +4,8 @@ body{
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
-
-header h1 {
+/* Navigation header */
+header > div > nav >  h1 {
 	font-size: 50px;
 	padding-top: 50px;
 	margin: 0;
@@ -42,11 +42,13 @@ img{
     height: 30%;
 }
 
+/* Link style */
 a{
     text-decoration: underline;
     margin-right: 40px;
 
 }
+
 a:link{
     color: white;
 }
@@ -73,6 +75,7 @@ footer {
     padding: 20px
 }
 
+/* List styling */
 ul,ol ,li{
     font-size: 12px;
    text-align: center;
@@ -84,6 +87,8 @@ ul,ol ,li{
  margin: 20px 60px;
  padding: 10px 10px;
 }
+
+/* Each section title header */
 h2{
     color:  #0b3c18;
     margin: 10px 0 40px 0;
