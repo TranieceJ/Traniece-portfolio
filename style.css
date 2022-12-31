@@ -33,7 +33,7 @@ header nav {
 
 header p{
     font-size: 20px;
-    color: #e3ebe5;
+    color: #523200;
 }
 
 img{
@@ -50,26 +50,26 @@ a{
 }
 
 a:link{
-    color: white;
+    color: blue;
 }
 a:hover{
     color: #0000;
 }
 
 a:visited{
-    color: red;
+    color: purple;
 }
 
 a:active{
-    color: #e0e4c3;
+    color: red;
 }
 
 main p{
     margin: 20px 60px;
-    font-size: 12px;
+    font-size: 18px;
 }
 footer {
-    color:#115746;
+    color:#523200;
     background-color: #909f88;
     margin-bottom: 0;
     padding: 20px
